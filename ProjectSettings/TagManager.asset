@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Battery
+  - Note
+  - SoundTrigger
+  - Screamer
+  - ScreamTrigger
+  - NewsPaper
+  - Item
+  - Note1
+  - Item1
+  - ShelfTrigger
+  - Doll
+  - Doll1
+  - NoteLeverRoom
+  - NoteRoom1
+  - NoteRoom2
+  - NoteRoom3
+  - NoteRoom4
+  - NoteRoom5
+  - NoteRoom6
+  - DummyActiveT
+  - DummyMoveHead
+  - SoundTrigger2
+  - DummyFirstEtaj
+  - SoundTrigger3
+  - Dummy2
+  - firstTrigger
+  - firstMove
+  - secondMove
+  - thirdMove
+  - finalScene
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
